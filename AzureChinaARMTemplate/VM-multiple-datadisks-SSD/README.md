@@ -20,3 +20,5 @@
 3.	Linux/Mac用户请使用deploy.sh部署（需要安装Azure CLI）
 4.	Windows用户需要使用deploy.ps1部署
 5.  也可以使用该连接上方直接图形化部署
+
+详细参考：https://mp.weixin.qq.com/s/AgP-HrBNm60idf_nFN7-2Q
